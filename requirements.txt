@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+pyzbar
+opencv-python-headless
+pandas
+gdown
+pillow
